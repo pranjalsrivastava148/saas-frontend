@@ -1,0 +1,6 @@
+.container {
+  background-color: #16181b;
+  height: 100vh;
+  padding: 36px;
+  overflow-y: hidden;
+}
